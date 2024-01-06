@@ -1,1 +1,1 @@
-We are writing snake in python. MVC components split in separate files. Keyboard control.
+create fast api application using postgres as database with following functionalities login, user     create/edit/delete , user reset password, create/update/delete survey, create/update/delete/ geo location with hierarchy state , district , consistency . In survey need to option to add question multi select, single option , long text, voice file, image where having two user type admin and survey user
